@@ -16,13 +16,15 @@ A simple, production-ready Todo application demonstrating a React + Redux Toolki
 ## Screenshots & Demo
 
 ### Light Mode
-![Todo App Light Mode](/Frontend/src/images/c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2025-11-21 161800.png)
+![Todo App Light Mode](/Frontend/src/images/Screenshot_161800.png)
 
 ### Dark Mode
-![Todo App Dark Mode](/Backend/src/image/c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2025-11-21 161019.png)
+![Todo App Dark Mode](/Backend/src/image/Screenshot_161019.png)
+
 
 ### Demo Video (Click to Watch)
-[![Todo App Demo Video](a href="c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2025-11-21 161133.png")]
+[![Todo App Demo Video](C:/Users/admin/OneDrive/Pictures/Screenshots/Screenshot 2025-11-21 161133.png)](C:/Users/admin/Videos/Screen Recordings/Screen Recording 2025-11-21 161255.mp4)
+
 
 ## Features
 - Add, edit, and delete todos
