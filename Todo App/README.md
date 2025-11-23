@@ -13,17 +13,7 @@ A simple, production-ready Todo application demonstrating a React + Redux Toolki
 - [Development Notes](#development-notes)
 - [Contributing](#contributing)
 
-## Screenshots & Demo
 
-### Light Mode
-<img src="c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2025-11-21 161001.png">
-
-### Dark Mode
-<img src="c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2025-11-21 161019.png">
-
-
-### Demo Video (Click to Watch)
-<a href="C:\Users\admin\Videos\Screen Recordings\Screen Recording 2025-11-21 161255.mp4">
 
 
 ## Features
@@ -106,3 +96,5 @@ Frontend/         # Vite + React app
 
 ## Contributing
 Contributions are welcome. Please open an issue or submit a pull request with a clear description of the change.
+
+<a href="https://drive.google.com/file/d/1jTZkSS6H2fMK820kDIpo7Y0I96k7ARct/view?usp=drive_link">
