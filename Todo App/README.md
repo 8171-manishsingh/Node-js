@@ -16,12 +16,13 @@ A simple, production-ready Todo application demonstrating a React + Redux Toolki
 ## Screenshots & Demo
 
 ### Light Mode
-<img width="400" height="500" alt="Screenshot 2025-11-21 161001" src="https://github.com/user-attachments/assets/91312d5c-1b5e-40df-9696-3f859e8d766b"/>
+<img width="500" height="400" alt="Screenshot 2025-11-23 211950" src="https://github.com/user-attachments/assets/141029a2-8586-4828-afc4-7d31fb0295b3" />
 
 ### Dark Mode
-<img width="400" height="500" alt="Screenshot 2025-11-21 161019" src="https://github.com/user-attachments/assets/a4a632fe-9522-48c5-a59a-a328cfbfad0f"/>
+<img width="500" height="400" alt="Screenshot 2025-11-23 211932" src="https://github.com/user-attachments/assets/63169fe1-6525-44d0-8037-cac9cfff7aa5" />
 
-
+### Output Video
+<a href="https://drive.google.com/file/d/1jTZkSS6H2fMK820kDIpo7Y0I96k7ARct/view?usp=drive_link">
 
 
 
