@@ -1,7 +1,11 @@
 📌 Twitter API (Node + Express)
 
-यह एक simple REST API है जिसमें Tweet को Create, Read, Update और Delete (CRUD) किया जा सकता है।
-डेटा JSON फ़ाइल में स्टोर होता है और API CORS सपोर्टेड है।
+यह एक simple REST API है जिसमें Tweet को
+👉 Create
+👉 Read
+👉 Update
+👉 Delete (CRUD)
+किया जा सकता है। डेटा JSON फ़ाइल में सेव होता है और API CORS supported है।
 
 🚀 Tech Stack
 
@@ -9,9 +13,7 @@ Node.js
 
 Express.js
 
-File-based JSON Storage
-
-Middleware + Routing
+JSON File Storage
 
 📂 Folder Structure
 project/
@@ -29,13 +31,13 @@ project/
 
 🛠 Installation & Setup
 
-1️⃣ प्रोजेक्ट को क्लोन या डाउनलोड करें
-2️⃣ टर्मिनल खोलें और चलाएँ:
+1️⃣ प्रोजेक्ट को डाउनलोड/क्लोन करें
+2️⃣ Terminal में चलाएँ:
 
 npm install
 
 
-3️⃣ फिर सर्वर शुरू करें:
+3️⃣ सर्वर स्टार्ट करें:
 
 node server.js
 
@@ -45,7 +47,7 @@ http://localhost:5000
 🔗 API Endpoints
 Method	Endpoint	Description
 GET	/api/tweets	सभी ट्वीट्स प्राप्त करें
-GET	/api/tweets/:id	ID से एक ट्वीट प्राप्त करें
+GET	/api/tweets/:id	ID से ट्वीट प्राप्त करें
 POST	/api/tweets	नया ट्वीट जोड़ें
 PATCH	/api/tweets/:id	ट्वीट अपडेट करें
 DELETE	/api/tweets/:id	ट्वीट हटाएँ
@@ -56,11 +58,11 @@ DELETE	/api/tweets/:id	ट्वीट हटाएँ
 }
 
 🧰 Middleware
-Name	Purpose
-logger.js	हर incoming request को लॉग करता है
-🎉 Output
+File	Purpose
+logger.js	हर incoming request को log करता है
+🎉 Server Output
 
-Server start होने पर:
+सर्वर चलने के बाद Terminal में:
 
 Server running on http://localhost:5000
 
