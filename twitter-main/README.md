@@ -53,19 +53,8 @@ logger.js	हर incoming request को log करता है
 सर्वर चलने के बाद Terminal में:
 
 Server running on http://localhost:5000
-📂 Folder Structure
-project/
-│ server.js
-│ package.json
-│
-├─ routes/
-│   └─ tweetRoutes.js
-│
-├─ middleware/
-│   └─ logger.js
-│
-└─ data/
-    └─ tweets.json
+
+
 
 
 
