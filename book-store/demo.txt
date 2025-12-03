@@ -1,0 +1,7 @@
+{
+  "title": "The Psychology of Money",
+  "author": "Morgan Housel",
+  "price": 17.49,
+  "category": "Finance"
+}
+
