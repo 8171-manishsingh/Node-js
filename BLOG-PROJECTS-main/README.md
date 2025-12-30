@@ -127,8 +127,10 @@ BLOG-PROJECTS-main/
 │   └── vite.config.js
 └── README.md
 ```
-## Watch Ootput Video
+## Watch Output Video
 (https://drive.google.com/file/d/1LoWXPGdenlGBL0a4x7PQvQTMLvNvOXuN/view?usp=sharing)
+
+
 ## Usage
 
 1. Register a new account or login with existing credentials
@@ -148,4 +150,5 @@ BLOG-PROJECTS-main/
 ## License
 
 This project is licensed under the ISC License.
+
 
