@@ -148,3 +148,8 @@ The frontend will run on `http://localhost:5173`
 ## License
 
 ISC
+## DEMO VIDEO
+(https://drive.google.com/file/d/1Ehf12tlX8k2a_zps7Iw2KfOuoGkwHqD9/view?usp=drive_link)
+
+## DEMO IMAGE 
+<img width="1891" height="895" alt="Screenshot 2025-12-08 210113" src="https://github.com/user-attachments/assets/1f7f4147-95ae-4016-9b17-ba76bfd1fb1e" />
